@@ -4,8 +4,22 @@ This repository contains my Labs and Certification Projects developed as part of
 
 ## Repository Structure
 
-- `/labs` — Contains the JavaScript Labs organized by curriculum section.
 - `/certification-projects` — Contains the five required Certification Projects.
+- `/labs` — Contains the JavaScript Labs organized by curriculum section.
+
+---
+
+## Certification Projects
+
+The following projects are required to qualify for the FreeCodeCamp JavaScript Certification Exam.
+
+| Certification Project | Status |
+|---|---|
+| Build a Markdown to HTML Converter | ⏳ Pending |
+| Build a Drum Machine | ⏳ Pending |
+| Build a Voting System | ⏳ Pending |
+| Build a Bank Account Management Program | ⏳ Pending |
+| Build a Weather App | ⏳ Pending |
 
 ---
 
@@ -211,20 +225,6 @@ This repository contains my Labs and Certification Projects developed as part of
 | Lab | Status |
 |---|---|
 | Build an fCC Forum Leaderboard | ⏳ Pending |
-
----
-
-## Certification Projects
-
-The following projects are required to qualify for the FreeCodeCamp JavaScript Certification Exam.
-
-| Certification Project | Status |
-|---|---|
-| Build a Markdown to HTML Converter | ⏳ Pending |
-| Build a Drum Machine | ⏳ Pending |
-| Build a Voting System | ⏳ Pending |
-| Build a Bank Account Management Program | ⏳ Pending |
-| Build a Weather App | ⏳ Pending |
 
 ---
 
