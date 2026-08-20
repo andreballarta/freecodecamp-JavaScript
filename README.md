@@ -47,10 +47,10 @@ The following projects are required to qualify for the FreeCodeCamp JavaScript C
 | Build a Boolean Check Function | ✅ Completed |
 | Build an Email Masker | ✅ Completed |
 | Build a Celsius to Fahrenheit Converter | ✅ Completed |
-| Build a Card Counting Assistant | ⏳ Pending |
-| Build a Leap Year Calculator | ⏳ Pending |
-| Implement the Truncate String Algorithm | ⏳ Pending |
-| Build a Confirm the Ending Tool | ⏳ Pending |
+| Build a Card Counting Assistant | ✅ Completed |
+| Build a Leap Year Calculator | ✅ Completed |
+| Implement the Truncate String Algorithm | ✅ Completed |
+| Build a Confirm the Ending Tool | ✅ Completed |
 
 ### Arrays
 
