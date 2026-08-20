@@ -35,8 +35,8 @@ This repository contains my Labs developed as part of the FreeCodeCamp JavaScrip
 
 | Lab | Status |
 |---|---|
-| Build a Lunch Picker Program | ⏳ Pending |
-| Build a Golf Score Translator | ⏳ Pending |
+| Build a Lunch Picker Program | ✅ Completed |
+| Build a Golf Score Translator | ✅ Completed |
 
 ### Objects
 
@@ -212,7 +212,7 @@ This repository contains my Labs developed as part of the FreeCodeCamp JavaScrip
 - Variables and Strings ✅
 - Booleans and Numbers ✅
 - Functions ✅
-- Arrays ⏳
+- Arrays ✅
 - Objects ⏳
 - Loops ⏳
 - JavaScript Fundamentals Review ⏳
