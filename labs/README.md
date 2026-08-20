@@ -26,7 +26,7 @@ This repository contains my Labs developed as part of the FreeCodeCamp JavaScrip
 | Build a Boolean Check Function | ✅ Completed |
 | Build an Email Masker | ✅ Completed |
 | Build a Celsius to Fahrenheit Converter | ✅ Completed |
-| Build a Card Counting Assistant | ⏳ Pending |
+| Build a Card Counting Assistant | ✅ Completed |
 | Build a Leap Year Calculator | ⏳ Pending |
 | Implement the Truncate String Algorithm | ⏳ Pending |
 | Build a Confirm the Ending Tool | ⏳ Pending |
