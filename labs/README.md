@@ -27,9 +27,9 @@ This repository contains my Labs developed as part of the FreeCodeCamp JavaScrip
 | Build an Email Masker | ✅ Completed |
 | Build a Celsius to Fahrenheit Converter | ✅ Completed |
 | Build a Card Counting Assistant | ✅ Completed |
-| Build a Leap Year Calculator | ⏳ Pending |
-| Implement the Truncate String Algorithm | ⏳ Pending |
-| Build a Confirm the Ending Tool | ⏳ Pending |
+| Build a Leap Year Calculator | ✅ Completed |
+| Implement the Truncate String Algorithm | ✅ Completed |
+| Build a Confirm the Ending Tool | ✅ Completed |
 
 ### Arrays
 
@@ -210,8 +210,8 @@ This repository contains my Labs developed as part of the FreeCodeCamp JavaScrip
 ## Progress
 
 - Variables and Strings ✅
-- Booleans and Numbers ⏳
-- Functions ⏳
+- Booleans and Numbers ✅
+- Functions ✅
 - Arrays ⏳
 - Objects ⏳
 - Loops ⏳
