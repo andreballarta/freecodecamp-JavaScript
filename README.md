@@ -231,8 +231,8 @@ The following projects are required to qualify for the FreeCodeCamp JavaScript C
 ## Progress
 
 - Variables and Strings ✅
-- Booleans and Numbers ⏳
-- Functions ⏳
+- Booleans and Numbers ✅
+- Functions ✅
 - Arrays ⏳
 - Objects ⏳
 - Loops ⏳
