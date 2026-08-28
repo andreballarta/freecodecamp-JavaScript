@@ -43,7 +43,7 @@ This repository contains my Labs developed as part of the FreeCodeCamp JavaScrip
 | Lab | Status |
 |---|---|
 | Build a Cargo Manifest Validator | ✅ Completed |
-| Build a Quiz Game | ⏳ Pending |
+| Build a Quiz Game | ✅ Completed |
 | Build a Record Collection | ⏳ Pending |
 
 ### Loops
