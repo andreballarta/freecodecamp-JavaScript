@@ -4,236 +4,234 @@ This repository contains my Labs developed as part of the FreeCodeCamp JavaScrip
 
 ## Labs list:
 
-### Variables and Strings
+### 01. Variables and Strings
 
 | Lab | Status |
 |---|---|
-| Build a JavaScript Trivia Bot | ✅ Completed |
-| Build a Sentence Maker | ✅ Completed |
+| 01.1 Build a JavaScript Trivia Bot | ✅ Completed |
+| 01.2 Build a Sentence Maker | ✅ Completed |
 
-### Booleans and Numbers
-
-| Lab | Status |
-|---|---|
-| Debug Type Coercion Errors in a Buggy App | ✅ Completed |
-| Debug Increment and Decrement Operator Errors in a Buggy App | ✅ Completed |
-| Build a Fortune Teller | ✅ Completed |
-
-### Functions
+### 02. Booleans and Numbers
 
 | Lab | Status |
 |---|---|
-| Build a Boolean Check Function | ✅ Completed |
-| Build an Email Masker | ✅ Completed |
-| Build a Celsius to Fahrenheit Converter | ✅ Completed |
-| Build a Card Counting Assistant | ✅ Completed |
-| Build a Leap Year Calculator | ✅ Completed |
-| Implement the Truncate String Algorithm | ✅ Completed |
-| Build a Confirm the Ending Tool | ✅ Completed |
+| 02.1 Debug Type Coercion Errors in a Buggy App | ✅ Completed |
+| 02.2 Debug Increment and Decrement Operator Errors in a Buggy App | ✅ Completed |
+| 02.3 Build a Fortune Teller | ✅ Completed |
 
-### Arrays
+### 03. Functions
 
 | Lab | Status |
 |---|---|
-| Build a Lunch Picker Program | ✅ Completed |
-| Build a Golf Score Translator | ✅ Completed |
+| 03.1 Build a Boolean Check Function | ✅ Completed |
+| 03.2 Build an Email Masker | ✅ Completed |
+| 03.3 Build a Celsius to Fahrenheit Converter | ✅ Completed |
+| 03.4 Build a Card Counting Assistant | ✅ Completed |
+| 03.5 Build a Leap Year Calculator | ✅ Completed |
+| 03.6 Implement the Truncate String Algorithm | ✅ Completed |
+| 03.7 Build a Confirm the Ending Tool | ✅ Completed |
 
-### Objects
-
-| Lab | Status |
-|---|---|
-| Build a Cargo Manifest Validator | ✅ Completed |
-| Build a Quiz Game | ✅ Completed |
-| Build a Record Collection | ⏳ Pending |
-
-### Loops
+### 04. Arrays
 
 | Lab | Status |
 |---|---|
-| Build a Traffic Light Sequencer | ⏳ Pending |
-| Build a Longest Word Finder App | ⏳ Pending |
-| Build a Factorial Calculator | ⏳ Pending |
-| Implement the Mutations Algorithm | ⏳ Pending |
-| Implement the Chunky Monkey Algorithm | ⏳ Pending |
-| Build a Profile Lookup | ⏳ Pending |
-| Build a String Repeating Function | ⏳ Pending |
-| Build a Missing Letter Detector | ⏳ Pending |
-| Build a Smart Pantry Restocker | ⏳ Pending |
-| Build a Proofreading Tool | ⏳ Pending |
+| 04.1 Build a Lunch Picker Program | ✅ Completed |
+| 04.2 Build a Golf Score Translator | ✅ Completed |
 
-### JavaScript Fundamentals Review
+### 05. Objects
 
 | Lab | Status |
 |---|---|
-| Build a String Inverter | ⏳ Pending |
-| Build the Largest Number Finder | ⏳ Pending |
-| Build a First Element Finder | ⏳ Pending |
-| Implement the Slice and Splice Algorithm | ⏳ Pending |
-| Build a Pyramid Generator | ⏳ Pending |
-| Build a Gradebook App | ⏳ Pending |
-| Restore a Coherent Narrative from an Array of Story Fragments | ⏳ Pending |
-| Build a Title Case Converter | ⏳ Pending |
-| Implement a Falsy Remover | ⏳ Pending |
-| Build an Inventory Management Program | ⏳ Pending |
-| Implement a Unique Sorted Union | ⏳ Pending |
-| Build a Password Generator App | ⏳ Pending |
-| Design a Sum All Numbers Algorithm | ⏳ Pending |
-| Implement a DNA Pair Generator | ⏳ Pending |
-| Implement an HTML Entity Converter | ⏳ Pending |
-| Build an Odd Fibonacci Sum Calculator | ⏳ Pending |
-| Implement an Element Skipper | ⏳ Pending |
-| Build a Playlist Remix Engine | ⏳ Pending |
+| 05.1 Build a Cargo Manifest Validator | ✅ Completed |
+| 05.2 Build a Quiz Game | ✅ Completed |
+| 05.3 Build a Record Collection | ✅ Completed |
 
-### Higher Order Functions and Callbacks
+### 06. Loops
 
 | Lab | Status |
 |---|---|
-| Build a Book Organizer | ⏳ Pending |
-| Implement a Sorted Index Finder | ⏳ Pending |
-| Build a Symmetric Difference Function | ⏳ Pending |
-| Implement a Value Remover Function | ⏳ Pending |
-| Implement a Matching Object Filter | ⏳ Pending |
-| Implement a Range-Based LCM Calculator | ⏳ Pending |
-| Create a Deep Flattening Tool | ⏳ Pending |
-| Build an All-True Property Validator | ⏳ Pending |
+| 06.1 Build a Traffic Light Sequencer | ⏳ Pending |
+| 06.2 Build a Longest Word Finder App | ⏳ Pending |
+| 06.3 Build a Factorial Calculator | ⏳ Pending |
+| 06.4 Implement the Mutations Algorithm | ⏳ Pending |
+| 06.5 Implement the Chunky Monkey Algorithm | ⏳ Pending |
+| 06.6 Build a Profile Lookup | ⏳ Pending |
+| 06.7 Build a String Repeating Function | ⏳ Pending |
+| 06.8 Build a Missing Letter Detector | ⏳ Pending |
+| 06.9 Build a Smart Pantry Restocker | ⏳ Pending |
+| 06.10 Build a Proofreading Tool | ⏳ Pending |
 
-### DOM Manipulation and Events
-
-| Lab | Status |
-|---|---|
-| Build a Favorite Icon Toggler | ⏳ Pending |
-| Build a Real Time Counter | ⏳ Pending |
-| Build a Lightbox Viewer | ⏳ Pending |
-| Build a Set of Football Team Cards | ⏳ Pending |
-
-### JavaScript and Accessibility
+### 07. JavaScript Fundamentals Review
 
 | Lab | Status |
 |---|---|
-| Build a Theme Switcher | ⏳ Pending |
+| 07.1 Build a String Inverter | ⏳ Pending |
+| 07.2 Build the Largest Number Finder | ⏳ Pending |
+| 07.3 Build a First Element Finder | ⏳ Pending |
+| 07.4 Implement the Slice and Splice Algorithm | ⏳ Pending |
+| 07.5 Build a Pyramid Generator | ⏳ Pending |
+| 07.6 Build a Gradebook App | ⏳ Pending |
+| 07.7 Restore a Coherent Narrative from an Array of Story Fragments | ⏳ Pending |
+| 07.8 Build a Title Case Converter | ⏳ Pending |
+| 07.9 Implement a Falsy Remover | ⏳ Pending |
+| 07.10 Build an Inventory Management Program | ⏳ Pending |
+| 07.11 Implement a Unique Sorted Union | ⏳ Pending |
+| 07.12 Build a Password Generator App | ⏳ Pending |
+| 07.13 Design a Sum All Numbers Algorithm | ⏳ Pending |
+| 07.14 Implement a DNA Pair Generator | ⏳ Pending |
+| 07.15 Implement an HTML Entity Converter | ⏳ Pending |
+| 07.16 Build an Odd Fibonacci Sum Calculator | ⏳ Pending |
+| 07.17 Implement an Element Skipper | ⏳ Pending |
+| 07.18 Build a Playlist Remix Engine | ⏳ Pending |
 
-### Debugging
-
-| Lab | Status |
-|---|---|
-| Debug a Random Background Color Changer | ⏳ Pending |
-
-### Basic Regex
-
-| Lab | Status |
-|---|---|
-| Build a Palindrome Checker | ⏳ Pending |
-| Build a RegEx Sandbox | ⏳ Pending |
-| Implement a Spinal Case Converter | ⏳ Pending |
-| Implement a Pig Latin Translator | ⏳ Pending |
-| Build a Smart Word Replacement Function | ⏳ Pending |
-
-### Form Validation
-
-| Lab | Status |
-|---|---|
-| Build a Customer Complaint Form | ⏳ Pending |
-
-### Dates
+### 08. Higher Order Functions and Callbacks
 
 | Lab | Status |
 |---|---|
-| Build a Date Conversion Program | ⏳ Pending |
+| 08.1 Build a Book Organizer | ⏳ Pending |
+| 08.2 Implement a Sorted Index Finder | ⏳ Pending |
+| 08.3 Build a Symmetric Difference Function | ⏳ Pending |
+| 08.4 Implement a Value Remover Function | ⏳ Pending |
+| 08.5 Implement a Matching Object Filter | ⏳ Pending |
+| 08.6 Implement a Range-Based LCM Calculator | ⏳ Pending |
+| 08.7 Create a Deep Flattening Tool | ⏳ Pending |
+| 08.8 Build an All-True Property Validator | ⏳ Pending |
 
-### localStorage and CRUD Operations
-
-| Lab | Status |
-|---|---|
-| Build a Bookmark Manager App | ⏳ Pending |
-
-### Classes
-
-| Lab | Status |
-|---|---|
-| Build a Project Idea Board | ⏳ Pending |
-
-### Recursion
+### 09. DOM Manipulation and Events
 
 | Lab | Status |
 |---|---|
-| Build a Countdown | ⏳ Pending |
-| Build a Range of Numbers Generator | ⏳ Pending |
-| Build a Permutation Generator | ⏳ Pending |
+| 09.1 Build a Favorite Icon Toggler | ⏳ Pending |
+| 09.2 Build a Real Time Counter | ⏳ Pending |
+| 09.3 Build a Lightbox Viewer | ⏳ Pending |
+| 09.4 Build a Set of Football Team Cards | ⏳ Pending |
 
-### Data Structures
-
-| Lab | Status |
-|---|---|
-| Implement Linked List Operations | ⏳ Pending |
-| Implement a Stack | ⏳ Pending |
-| Implement a Queue | ⏳ Pending |
-
-### Algorithms
+### 10. JavaScript and Accessibility
 
 | Lab | Status |
 |---|---|
-| Implement the Bubble Sort Algorithm | ⏳ Pending |
-| Implement the Selection Sort Algorithm | ⏳ Pending |
-| Implement the Insertion Sort Algorithm | ⏳ Pending |
-| Implement the Quicksort Algorithm | ⏳ Pending |
+| 10.1 Build a Theme Switcher | ⏳ Pending |
 
-### Graphs and Trees
+### 11. Debugging
 
 | Lab | Status |
 |---|---|
-| Build an Adjacency List to Matrix Converter | ⏳ Pending |
-| Implement the Depth-First Search Algorithm | ⏳ Pending |
-| Implement the N-Queens Algorithm | ⏳ Pending |
+| 11.1 Debug a Random Background Color Changer | ⏳ Pending |
 
-### Dynamic Programming
+### 12. Basic Regex
 
 | Lab | Status |
 |---|---|
-| Build an Nth Fibonacci Number Calculator | ⏳ Pending |
-| Build a Prime Number Sum Calculator | ⏳ Pending |
+| 12.1 Build a Palindrome Checker | ⏳ Pending |
+| 12.2 Build a RegEx Sandbox | ⏳ Pending |
+| 12.3 Implement a Spinal Case Converter | ⏳ Pending |
+| 12.4 Implement a Pig Latin Translator | ⏳ Pending |
+| 12.5 Build a Smart Word Replacement Function | ⏳ Pending |
 
-### Functional Programming
-
-| Lab | Status |
-|---|---|
-| Build an Optional Arguments Sum Function | ⏳ Pending |
-| Build a Sorting Visualizer | ⏳ Pending |
-
-### Asynchronous JavaScript
+### 13. Form Validation
 
 | Lab | Status |
 |---|---|
-| Build an fCC Forum Leaderboard | ⏳ Pending |
+| 13.1 Build a Customer Complaint Form | ⏳ Pending |
+
+### 14. Dates
+
+| Lab | Status |
+|---|---|
+| 14.1 Build a Date Conversion Program | ⏳ Pending |
+
+### 15. localStorage and CRUD Operations
+
+| Lab | Status |
+|---|---|
+| 15.1 Build a Bookmark Manager App | ⏳ Pending |
+
+### 16. Classes
+
+| Lab | Status |
+|---|---|
+| 16.1 Build a Project Idea Board | ⏳ Pending |
+
+### 17. Recursion
+
+| Lab | Status |
+|---|---|
+| 17.1 Build a Countdown | ⏳ Pending |
+| 17.2 Build a Range of Numbers Generator | ⏳ Pending |
+| 17.3 Build a Permutation Generator | ⏳ Pending |
+
+### 18. Data Structures
+
+| Lab | Status |
+|---|---|
+| 18.1 Implement Linked List Operations | ⏳ Pending |
+| 18.2 Implement a Stack | ⏳ Pending |
+| 18.3 Implement a Queue | ⏳ Pending |
+
+### 19. Algorithms
+
+| Lab | Status |
+|---|---|
+| 19.1 Implement the Bubble Sort Algorithm | ⏳ Pending |
+| 19.2 Implement the Selection Sort Algorithm | ⏳ Pending |
+| 19.3 Implement the Insertion Sort Algorithm | ⏳ Pending |
+| 19.4 Implement the Quicksort Algorithm | ⏳ Pending |
+
+### 20. Graphs and Trees
+
+| Lab | Status |
+|---|---|
+| 20.1 Build an Adjacency List to Matrix Converter | ⏳ Pending |
+| 20.2 Implement the Depth-First Search Algorithm | ⏳ Pending |
+| 20.3 Implement the N-Queens Algorithm | ⏳ Pending |
+
+### 21. Dynamic Programming
+
+| Lab | Status |
+|---|---|
+| 21.1 Build an Nth Fibonacci Number Calculator | ⏳ Pending |
+| 21.2 Build a Prime Number Sum Calculator | ⏳ Pending |
+
+### 22. Functional Programming
+
+| Lab | Status |
+|---|---|
+| 22.1 Build an Optional Arguments Sum Function | ⏳ Pending |
+| 22.2 Build a Sorting Visualizer | ⏳ Pending |
+
+### 23. Asynchronous JavaScript
+
+| Lab | Status |
+|---|---|
+| 23.1 Build an fCC Forum Leaderboard | ⏳ Pending |
 
 ---
 
 ## Progress
 
-- Variables and Strings ✅
-- Booleans and Numbers ✅
-- Functions ✅
-- Arrays ✅
-- Objects ⏳
-- Loops ⏳
-- JavaScript Fundamentals Review ⏳
-- Higher Order Functions and Callbacks ⏳
-- DOM Manipulation and Events ⏳
-- JavaScript and Accessibility ⏳
-- Debugging ⏳
-- Basic Regex ⏳
-- Form Validation ⏳
-- Dates ⏳
-- Audio and Video Events ⏳
-- Maps and Sets ⏳
-- localStorage and CRUD Operations ⏳
-- Classes ⏳
-- Recursion ⏳
-- Data Structures ⏳
-- Algorithms ⏳
-- Graphs and Trees ⏳
-- Dynamic Programming ⏳
-- Functional Programming ⏳
-- Asynchronous JavaScript ⏳
+- 01. Variables and Strings ✅
+- 02. Booleans and Numbers ✅
+- 03. Functions ✅
+- 04. Arrays ✅
+- 05. Objects ✅
+- 06. Loops ⏳
+- 07. JavaScript Fundamentals Review ⏳
+- 08. Higher Order Functions and Callbacks ⏳
+- 09. DOM Manipulation and Events ⏳
+- 10. JavaScript and Accessibility ⏳
+- 11. Debugging ⏳
+- 12. Basic Regex ⏳
+- 13. Form Validation ⏳
+- 14. Dates ⏳
+- 15. localStorage and CRUD Operations ⏳
+- 16. Classes ⏳
+- 17. Recursion ⏳
+- 18. Data Structures ⏳
+- 19. Algorithms ⏳
+- 20. Graphs and Trees ⏳
+- 21. Dynamic Programming ⏳
+- 22. Functional Programming ⏳
+- 23. Asynchronous JavaScript ⏳
 
 ---
 
