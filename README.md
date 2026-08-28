@@ -37,7 +37,7 @@ The Labs cover the following areas of the FreeCodeCamp JavaScript curriculum:
 | Booleans and Numbers | ✅ Completed |
 | Functions | ✅ Completed |
 | Arrays | ✅ Completed |
-| Objects | ⏳ Pending |
+| Objects | ✅ Completed |
 | Loops | ⏳ Pending |
 | JavaScript Fundamentals Review | ⏳ Pending |
 | Higher Order Functions and Callbacks | ⏳ Pending |
